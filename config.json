@@ -1,0 +1,8 @@
+{
+	"host_map": [
+		"$.lakersstore.com => lakersstore.com",
+		"$.lakersstore.com => www.lakersstore.com",
+		"$.edge.lakersstore.com => edge.lakersstore.com"
+	],
+	"user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/536.25 (KHTML, like Gecko) Version/6.0 Safari/536.25"
+}
